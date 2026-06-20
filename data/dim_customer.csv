@@ -1,0 +1,21 @@
+﻿customer_id,customer_name,age_band,region,customer_segment,kyc_verified,account_open_date
+1,Amelia Rhodes,25-34,London,Premium,TRUE,10-06-2021
+2,James Whitfield,35-44,South East,Standard,TRUE,23-11-2020
+3,Sofia Patel,18-24,Midlands,Starter,FALSE,08-01-2023
+4,Oliver Bennett,45-54,North West,Business,TRUE,14-07-2019
+5,Chloe Macgregor,25-34,Scotland,Standard,TRUE,30-09-2022
+6,Daniel Okafor,35-44,London,Premium,TRUE,17-03-2021
+7,Priya Sharma,18-24,South West,Starter,FALSE,22-06-2023
+8,Thomas Hughes,55-64,Wales,Standard,TRUE,05-04-2020
+9,Isabelle Fontaine,25-34,North East,Premium,TRUE,19-01-2022
+10,Mohammed Al-Hassan,45-54,London,Business,TRUE,01-12-2018
+11,Grace Elliott,35-44,East of England,Standard,TRUE,27-08-2021
+12,Ethan Clarke,25-34,South East,Starter,TRUE,11-03-2023
+13,Fatima Noor,18-24,Midlands,Starter,FALSE,14-02-2024
+14,Samuel Whitmore,55-64,Yorkshire,Business,TRUE,30-05-2017
+15,Layla Singh,25-34,London,Premium,TRUE,04-07-2022
+16,Noah Greenwood,35-44,North West,Standard,TRUE,18-10-2021
+17,Aisha Kamara,18-24,Scotland,Starter,FALSE,01-04-2024
+18,Benjamin Fox,45-54,South East,Business,TRUE,28-02-2020
+19,Charlotte Lewis,25-34,Midlands,Standard,TRUE,16-11-2022
+20,Rajan Mehta,35-44,London,Premium,TRUE,09-09-2019
