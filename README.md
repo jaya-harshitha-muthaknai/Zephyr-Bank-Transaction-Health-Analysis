@@ -221,7 +221,7 @@ Provides a high-level overview of business KPIs and transaction health.
 **Dashboard Screenshot**
 
 ```text
-/images/Executive_Summary.png<img width="1376" height="675" alt="Executive_Summary" src="https://github.com/user-attachments/assets/c9ddf01c-3524-4ca6-baec-efa7c3078b9d" />
+<img width="1376" height="675" alt="Executive_Summary" src="https://github.com/user-attachments/assets/16bc4721-7924-423c-8204-845ceab6fc39" />
 
 ```
 
