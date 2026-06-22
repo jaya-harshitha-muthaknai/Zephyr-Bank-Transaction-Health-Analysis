@@ -309,34 +309,36 @@ Analyzes fraud concentration across regions, channels, devices, and merchant cat
 ## 📁 Project Structure
 
 ```bash
-Zephyr-Bank-Transaction-Health-Monitoring
+## Project Structure
+
+```text
+Zephyr-Bank-Transaction-Health-Analysis
 │
-├── Data
+├── Analysis
+│   ├── Results.xlsx
+│   ├── investigation.ipynb
+│   └── requirements.txt
+│
+├── Dashboard
+│   ├── Data.pbix
+│   ├── Executive_Summary.png
+│   ├── Fraud_Revenue_Analysis_dashboard.png
+│   ├── Revenue_Leakage_Analysis_Dashboard.png
+│   ├── Customer_Risk_Analysis.png
+│   └── Risk_and_Revenue_Insights.png
+│
+├── data
 │   ├── fact_transactions_updated.csv
 │   ├── dim_customer.csv
 │   ├── dim_transaction_type.csv
 │   └── dim_merchant_category.csv
 │
-├── Documents
-│   ├── Business Requirements Document.docx
-│   ├── Functional Requirements Document.docx
-│   ├── RTM (Requirement Traceability Matrix).docx
-│   ├── CHALLENGE_BRIEF.md
-│   └── DATA_DICTIONARY.md
-│
-├── Notebook
-│   └── investigation.ipynb
-│
-├── PowerBI
-│   └── Data.pbix
-│
-├── Images
-│   ├── Executive_Summary.png
-│   ├── Fraud_Revenue_Analysis.png
-│   ├── Revenue_Leakage_Analysis.png
-│   ├── Customer_Risk_Analysis.png
-│   └── Risk_and_Revenue_Insights.png
-│
+└── docs
+|    ├── Business Requirements Document.docx
+|    ├── Functional Requirements Document.docx
+|    ├── RTM (Requirement Traceability Matrix).docx
+|    ├── CHALLENGE_BRIEF.md
+|    └── DATA_DICTIONARY.md
 └── README.md
 ```
 
