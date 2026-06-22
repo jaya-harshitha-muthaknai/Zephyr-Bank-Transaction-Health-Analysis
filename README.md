@@ -220,10 +220,7 @@ Provides a high-level overview of business KPIs and transaction health.
 
 **Dashboard Screenshot**
 
-```text
 <img width="1376" height="675" alt="Executive_Summary" src="https://github.com/user-attachments/assets/16bc4721-7924-423c-8204-845ceab6fc39" />
-
-```
 
 ---
 
@@ -233,10 +230,10 @@ Analyzes fraud concentration and revenue performance across customer segments.
 
 **Dashboard Screenshot**
 
-```text
+
 <img width="1418" height="826" alt="Fraud_Revenue_Analysis_dasboard" src="https://github.com/user-attachments/assets/2a11c133-1313-4c9d-9365-3d0c02d0c2c9" />
 
-```
+
 
 ---
 
@@ -246,9 +243,8 @@ Evaluates expected fees versus actual fees charged to identify revenue leakage o
 
 **Dashboard Screenshot**
 
-```text
+
 <img width="1375" height="772" alt="Revenue_Lekage_Anlysis_Dashboard" src="https://github.com/user-attachments/assets/12d02bf7-fc96-4a85-a8d3-0eadbc8bca67" />
-```
 
 ---
 
@@ -258,10 +254,7 @@ Identifies customers contributing significantly to fraud exposure and risk conce
 
 **Dashboard Screenshot**
 
-```text
 <img width="1373" height="766" alt="Customer_Risk_Anlysis" src="https://github.com/user-attachments/assets/cb369c23-e15c-4dde-91cd-b0338ae76183" />
-
-```
 
 ---
 
@@ -271,10 +264,7 @@ Analyzes fraud concentration across regions, channels, devices, and merchant cat
 
 **Dashboard Screenshot**
 
-```text
 <img width="1385" height="777" alt="Risk_and_Revenue_Insights" src="https://github.com/user-attachments/assets/18b72065-5900-4e31-89f5-d2ce494c7174" />
-
-```
 
 ---
 
