@@ -306,9 +306,6 @@ Analyzes fraud concentration across regions, channels, devices, and merchant cat
 
 ---
 
-## 📁 Project Structure
-
-```bash
 ## Project Structure
 
 ```text
@@ -333,15 +330,17 @@ Zephyr-Bank-Transaction-Health-Analysis
 │   ├── dim_transaction_type.csv
 │   └── dim_merchant_category.csv
 │
-└── docs
-|    ├── Business Requirements Document.docx
-|    ├── Functional Requirements Document.docx
-|    ├── RTM (Requirement Traceability Matrix).docx
-|    ├── CHALLENGE_BRIEF.md
-|    └── DATA_DICTIONARY.md
+├── docs
+│   ├── Business Requirements Document.docx
+│   ├── Functional Requirements Document.docx
+│   ├── RTM (Requirement Traceability Matrix).docx
+│   ├── UAT Test Cases.docx
+│   ├── Data Mapping.xlsx
+│   ├── CHALLENGE_BRIEF.md
+│   └── DATA_DICTIONARY.md
+│
 └── README.md
 ```
-
 ---
 
 ## 🚀 Business Impact
